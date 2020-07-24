@@ -57,3 +57,5 @@ python refresh.py
     time.sleep(1)
   ```
   
+  
+  P.S. So I got one Switch for myself and two for two of my best friends!!!!!!!!!!!!!!!! 
